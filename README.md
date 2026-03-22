@@ -21,5 +21,5 @@ This project focuses on vulnerability identification and documentation. No code 
 
 
 
-Security Tools Integration:
+## Security Tools Integration:
 This repository can be integrated with SonarQube for static code analysis and Snyk for dependency vulnerability scanning as part of a CI/CD pipeline.
