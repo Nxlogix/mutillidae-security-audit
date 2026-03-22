@@ -18,3 +18,8 @@ To identify vulnerabilities based on OWASP Top 10.
 
 ## Description
 This project focuses on vulnerability identification and documentation. No code fixes were implemented; only mitigation strategies were proposed.
+
+
+
+Security Tools Integration:
+This repository can be integrated with SonarQube for static code analysis and Snyk for dependency vulnerability scanning as part of a CI/CD pipeline.
